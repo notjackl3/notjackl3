@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Jack%20Le&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=374151&height=200&section=header&text=Jack%20Le&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" />
 </div>
 
 <div align="center">  
@@ -10,18 +10,19 @@
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/notjackl3)
 </div>
 
----
+<p align="center">
+  <img src="cards.jpg" width="700" />
+</p>
 
 ## About Me
 - i do things above your expectation
 - i love asking why and how things work
 - i am lazy so i try to make things efficient
 
----
+## Tech Stack
 
-## 💻 Tech Stack
-
-<table>
+<div style="width:100%;">
+<table align="center" width="100%" cellspacing="0" cellpadding="0">
 <tr>
 <td width="33%" valign="top" bgcolor="#FFFFFF">
 <p align="center">
@@ -55,12 +56,13 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" width="50" title="MongoDB"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redis.png" width="50" title="Redis"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/supabase.png" width="50" title="Supabase"/>
+  <br/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" width="50" title="AWS"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gcp.png" width="50" title="Google Cloud"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" width="50" title="Docker"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/grafana.png" width="50" title="Grafana"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kafka.png" width="50" title="Kafka"/>
 </p>
 </td>
 </tr>
 </table>
+</div>
+
