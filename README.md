@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-  <img src="cards.jpg" width="700" />
+  <img src="cards.JPG" width="700" />
 </p>
 
 ## About Me
