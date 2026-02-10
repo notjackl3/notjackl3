@@ -64,7 +64,7 @@
       • 🏆 hacker @ UofTHacks<br/>
       • hacker @ Stan Hackathon<br/>
       • 🏆 hacker @ UTRA Hacks<br/>
-      • hacker @ QHacks<br/>
+      • 🏆 hacker @ QHacks<br/>
     </td>
     <td width="350px" valign="top">
       2025<br/>
