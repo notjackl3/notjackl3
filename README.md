@@ -66,6 +66,7 @@
       • 🏆 hacker @ UTRA Hacks<br/>
       • 🏆 hacker @ QHacks<br/>
       • hacker @ AI Agents Voice Hackathon <br/>
+      • 🏆 hacker @ SmileHacks <br/>
     </td>
     <td width="350px" valign="top">
       2025<br/>
