@@ -59,6 +59,7 @@
   <tr>
     <td width="350px" valign="top">
       2026<br/>
+      • founder @ SOON Hackathon<br/>
       • organizer @ GenAI Genesis<br/>
       • hacker @ DeltaHacks<br/>
       • 🏆 hacker @ UofTHacks<br/>
@@ -67,6 +68,7 @@
       • 🏆 hacker @ QHacks<br/>
       • hacker @ AI Agents Voice Hackathon <br/>
       • 🏆 hacker @ SmileHacks <br/>
+      • hacker, workshop lead @ DeerHacks <br/>
     </td>
     <td width="350px" valign="top">
       2025<br/>
