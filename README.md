@@ -70,7 +70,7 @@
       • 🏆 hacker @ SmileHacks <br/>
       • hacker @ Hack The Future <br/>
       • hacker, workshop lead @ DeerHacks <br/>
-      • hacker @ Hack Canada <br/>
+      • 🏆 hacker @ Hack Canada <br/>
       • hacker @ Hack The Globe <br/>
     </td>
     <td width="350px" valign="top">
