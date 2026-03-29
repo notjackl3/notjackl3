@@ -73,7 +73,7 @@
       • hacker, workshop lead @ DeerHacks <br/>
       • 🏆 hacker @ Hack Canada <br/>
       • hacker @ Hack The Globe <br/>
-      • hacker @ Stupid Ideas Hackathon <br/>
+      • 🏆 hacker @ Stupid Ideas Hackathon <br/>
     </td>
     <td width="350px" valign="top">
       2025<br/>
