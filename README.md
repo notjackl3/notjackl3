@@ -74,6 +74,7 @@
       • 🏆 hacker @ Hack Canada <br/>
       • hacker @ Hack The Globe <br/>
       • 🏆 hacker @ Stupid Ideas Hackathon <br/>
+      • speaker, judge @ BearHacks <br/>
     </td>
     <td width="350px" valign="top">
       2025<br/>
