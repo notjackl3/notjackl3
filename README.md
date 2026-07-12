@@ -76,6 +76,7 @@
       • 🏆 hacker @ Stupid Ideas Hackathon <br/>
       • hacker @ sandcastle <br/>
       • hacker @ NVIDIA Spark Hackathon <br/>
+      • 🏆 hacker @ Agentic AI Build Week <br/>
     </td>
     <td width="350px" valign="top">
       2025<br/>
