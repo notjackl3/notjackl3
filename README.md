@@ -62,6 +62,7 @@
       • founder @ SOON Hackathon<br/>
       • organizer @ GenAI Genesis<br/>
       • judge @ FraserHacks <br/>
+      • judge @ BearHacks <br/>
       • hacker @ DeltaHacks<br/>
       • 🏆 hacker @ UofTHacks<br/>
       • hacker @ Stan Hackathon<br/>
