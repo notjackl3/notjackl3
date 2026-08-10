@@ -79,6 +79,7 @@
       • hacker @ NVIDIA Spark Hackathon <br/>
       • 🏆 hacker @ Agentic AI Build Week <br/>
       • 🏆 hacker @ Hack The 6ix <br/>
+      • 🥇 hacker @ SummerHacks <br/>
     </td>
     <td width="350px" valign="top">
       2025<br/>
