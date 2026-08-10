@@ -59,37 +59,36 @@
   <tr>
     <td width="350px" valign="top">
       2026<br/>
-      • founder @ SOON Hackathon<br/>
-      • organizer @ GenAI Genesis<br/>
-      • judge @ FraserHacks <br/>
-      • judge @ BearHacks <br/>
-      • hacker @ DeltaHacks<br/>
-      • 🏆 hacker @ UofTHacks<br/>
-      • hacker @ Stan Hackathon<br/>
-      • 🏆 hacker @ UTRA Hacks<br/>
-      • 🏆 hacker @ QHacks<br/>
-      • hacker @ AI Agents Voice Hackathon <br/>
-      • 🥉 hacker @ SmileHacks <br/>
-      • 🥇 hacker @ Hack The Future <br/>
-      • hacker, workshop lead @ DeerHacks <br/>
-      • 🏆 hacker @ Hack Canada <br/>
-      • hacker @ Hack The Globe <br/>
-      • 🏆 hacker @ Stupid Ideas Hackathon <br/>
-      • hacker @ sandcastle <br/>
-      • hacker @ NVIDIA Spark Hackathon <br/>
-      • 🏆 hacker @ Agentic AI Build Week <br/>
-      • 🏆 hacker @ Hack The 6ix <br/>
-      • 🥇 hacker @ SummerHacks <br/>
+      • 1 - founder @ SOON Hackathon<br/>
+      • 2 - organizer @ GenAI Genesis<br/>
+      • 3 - judge @ FraserHacks <br/>
+      • 4 - judge, workshop lead @ BearHacks <br/>
+      • 5 - hacker @ DeltaHacks<br/>
+      • 6 - 🏆 hacker @ UofTHacks<br/>
+      • 7 - hacker @ Stan Hackathon<br/>
+      • 8 - 🏆 hacker @ UTRA Hacks<br/>
+      • 9 - 🏆 hacker @ QHacks<br/>
+      • 10 - hacker @ AI Agents Voice Hackathon <br/>
+      • 11 - 🥉 hacker @ SmileHacks <br/>
+      • 12 - 🥇 hacker @ Hack The Future <br/>
+      • 13 - hacker, workshop lead @ DeerHacks <br/>
+      • 14 - 🏆 hacker @ Hack Canada <br/>
+      • 15 - hacker @ Hack The Globe <br/>
+      • 16 - 🏆 hacker @ Stupid Ideas Hackathon <br/>
+      • 17 - hacker @ sandcastle <br/>
+      • 18 - hacker @ NVIDIA Spark Hackathon <br/>
+      • 19 - 🏆 hacker @ Agentic AI Build Week <br/>
+      • 20 - 🏆 hacker @ Hack The 6ix <br/>
+      • 21 - 🥇 hacker @ SummerHacks <br/>
     </td>
     <td width="350px" valign="top">
       2025<br/>
-      • organizer @ GenAI Genesis<br/>
-      • organizer @ EmberHacks<br/>
-      • workshop lead @ Ignition Hacks<br/>
-      • 🏆 hacker @ GoOnHacks<br/>
-      • hacker @ TechTO Hackathon<br/>
-      • hacker @ Hack The North<br/>
-      • 🏆 hacker @ WallyHacks<br/>
+      • 1 - organizer @ EmberHacks<br/>
+      • 2 - workshop lead @ Ignition Hacks<br/>
+      • 3 - 🏆 hacker @ GoOnHacks<br/>
+      • 4 - hacker @ TechTO Hackathon<br/>
+      • 5 - hacker @ Hack The North<br/>
+      • 6 - 🏆 hacker @ WallyHacks<br/>
     </td>
   </tr>
 </table>
