@@ -80,7 +80,9 @@
       • 19 - 🏆 hacker @ Agentic AI Build Week <br/>
       • 20 - 🏆 hacker @ Hack The 6ix <br/>
       • 21 - 🥇 hacker @ SummerHacks <br/>
-      • 22 - incoming @ Hack The North <br/>
+      • 22 - incoming @ Pivot Hacks <br/>
+      • 23 - incoming @ Hack The North <br/>
+      • 24 - incoming @ FormulaTech Hacks <br/>
     </td>
     <td width="350px" valign="top">
       2025<br/>
